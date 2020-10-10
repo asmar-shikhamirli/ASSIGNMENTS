@@ -1,1 +1,1 @@
-# BHOS_IT_19.1
+# This repository is for the assignments of the ***C language*** course.
